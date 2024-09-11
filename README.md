@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>ff lekker overleven
-    <p>hallo ik ben een paragraaf</p>
+    <p>hallo ik ben een sukkeltje</p>
     <img src="https://i.ytimg.com/vi/kKJvIWI0ha4/maxresdefault.jpg" alt="">
     <img src="img/jo.jpg.png
     " alt="">
